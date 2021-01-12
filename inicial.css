@@ -1,0 +1,62 @@
+body{
+    margin: 0px;
+    text-align: center;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30;
+    
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin: 50px;
+    font-size: 40;
+    background-color: rgba(77, 71, 71, 0.479);
+    border-width: 2px 5px 3px 6px;
+    border-style: dashed dotted; 
+    border-color: rgb(206, 170, 9) #090 #900 #009; 
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+    margin: 50px;
+    font-style: italic;
+    font-weight: bolder;
+
+}
+figure{
+    border: 1px solid blanchedalmond;
+    color: blanchedalmond;
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-width: 2px 5px 3px 6px;
+    border-style: dashed dotted; 
+    border-color: rgb(206, 170, 9) #090 #900 #009; 
+    padding: 20px;
+}
+img {
+    background: #eee;
+    text-align: center;
+    width: 60%;
+    height: auto;
+    
+    
+ }
+ li{
+     margin: auto;
+ }
+ h1{
+     color: blanchedalmond;
+     font-style: italic;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-size: 20;
+ }
+figcaption{
+    font-size: small;
+    
+}
